@@ -1,0 +1,15 @@
+
+
+.logo_university img, 
+.logo_club img {
+    width: 200px;
+    height: 75px;
+}
+
+.image-show {
+    width: 800px;
+    height: 500px;
+    border: 10px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to right top, #2979ff, #07a787);
+}
